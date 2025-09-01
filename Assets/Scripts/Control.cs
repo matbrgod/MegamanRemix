@@ -66,7 +66,7 @@ public class Control : MonoBehaviour
 
         // Adiciona uma força para mover o personagem.
         if(jumptimeside<0.1f)
-        rdb.AddForce(new Vector2(xmov * 20 / (rdb.velocity.magnitude + 1), 0));
+        rdb.AddForce(new Vector2(xmov * 60 / (rdb.velocity.magnitude + 1), 0));
 
         RaycastHit2D hit;
 
@@ -99,7 +99,7 @@ public class Control : MonoBehaviour
         // Verifica a distância do chão e aplica uma força de pulo se necessário.
         if (hit.distance < 0.1f)
         {
-            jumptime = 1;
+            jumptime = 3;
            
         }
 
