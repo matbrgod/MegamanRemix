@@ -350,6 +350,8 @@ TextureImporter:
     nameFileIdTable:
       Pack 01 - Space PRO pack_0: -690288776
       Pack 01 - Space PRO pack_1: 2002056476
+      Pack 01 - Space PRO pack_10: 820975883
+      Pack 01 - Space PRO pack_11: 172583919
       Pack 01 - Space PRO pack_2: -1831995566
       Pack 01 - Space PRO pack_3: -1808529812
       Pack 01 - Space PRO pack_4: -1766013283
@@ -357,6 +359,7 @@ TextureImporter:
       Pack 01 - Space PRO pack_6: -1183542746
       Pack 01 - Space PRO pack_7: 365582462
       Pack 01 - Space PRO pack_8: 417223625
+      Pack 01 - Space PRO pack_9: -908468300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
