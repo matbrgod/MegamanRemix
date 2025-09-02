@@ -1,0 +1,2063 @@
+fileFormatVersion: 2
+guid: 1418ba10f7e26134e8e743172a49a150
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a82a0dc100964abf396c356f5e897
+      internalID: 535187809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c3bfa5bf5ceb4b8bc9dc1b0d98a75
+      internalID: 1463521559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ff446a1931cc41a55e69252208dbf
+      internalID: -1386753061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 212
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b31d4cab744a14299749e099eac4da
+      internalID: 694148425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d5a137406307419785b7769128dcf
+      internalID: 465432951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 180
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54276cfc5fbd821489a1d7efeafc2da1
+      internalID: 1592084322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 196
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e19de9e9b7374f9525dd5ff782fe2
+      internalID: 1670339706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0abbc594d51144286c0d939fbc41b5
+      internalID: 402804613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 196
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea4ba4bec43e04284e185ace8ed73b
+      internalID: -2144609417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 196
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684a0121a721464584015751fc81357
+      internalID: 1154223457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc605dc941734f42a409f82025f4a25
+      internalID: -1277851629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 198
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afd90b05c98f84f82bed054ee18ab4
+      internalID: -225559960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae5ffef10c712f469b9aa9628959953
+      internalID: 1015146109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0885f12056269e46aca211a0026e96a
+      internalID: 447977501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d958f380a80a42a04db3ef36a261c
+      internalID: -657522031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 177
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ca135ccd950343b98823dafbceeb3
+      internalID: 796348480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 181
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df32d70971c45b42adaed53d072a51d
+      internalID: 875324847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 181
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe4e2ea707bb644adbc41445216420
+      internalID: -467432155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 181
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55320ed6fbed2247bee1b08231f8dba
+      internalID: 542716182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bd09e5a8741d4abbd62ac3d7d1fde
+      internalID: 744473124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59abddd5713f046bb3f9d8288008cd
+      internalID: 1339938388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10aa73ac2fdc244ab3ffdbe86de6ac
+      internalID: 1528051039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e658fb1f9b6f24aa5d58020d05fbe6
+      internalID: 1922397565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d1d8664309ecc4b853f717ed667921
+      internalID: -525855058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e47a0c22d2204a988c1bed5475c52
+      internalID: 1516132926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 159
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe06f0ebff777489d32bb480d3a140
+      internalID: -1479103485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcaa7d1169ac69449575c00bd3f157e
+      internalID: -276547271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6095705764c44097946aa79b8ea82
+      internalID: -1060959518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67eb7b94fbc9b24aa8deffbff508f5c
+      internalID: 2126973480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 151
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3b8c78f7f19545aec7ae2abc62ecd
+      internalID: 354397705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 118
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb61da92c3bb684fbe6481eb082c702
+      internalID: 1082090495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 151
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239820d5dbfeeb4eb58c3c689b5e486
+      internalID: 732363229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19799b011f792d6468c9282a8b314eb5
+      internalID: -2019176502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bbe7a3c58c8d469778d458ce79507
+      internalID: -1064524978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb94f90ff4f0384589e87bfb54c2abf
+      internalID: -1642453297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a033999096f84b84bfbc5d216fce3
+      internalID: -698358144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dcb74ee8eb33e48ac769cbaa07917c
+      internalID: -2078011354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce14229d0eef2549988132db1cb4d9c
+      internalID: 195274557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 75
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0640480d39c8046b0c5c4c7747e147
+      internalID: -456485798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d62ca6f4a5eb540b1030a91a0dd0ea
+      internalID: 134377398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc63daab7b213cd44ae9d6975ec323bf
+      internalID: 1062064229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396fde23049cf2439b43d1e9bc1713b
+      internalID: -145539642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e6f21a80fd6b74b98a226547b707b7
+      internalID: 935876948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb594c58e6fc6194489f24d81fd8df42
+      internalID: 2062007784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d5940ae73b574fb95861adb125a66
+      internalID: 137582566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc50f37c4d7e64ab8b6485169f5a06
+      internalID: 1441317902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66ebb5283408a45a44c22b794e37fc
+      internalID: -1394372208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9a7a91d949274ab33abb0acb205c5
+      internalID: 1552599895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 79
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66b901a1277b84fbd664b9037a1135
+      internalID: -182671762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65adbc9b95ac3c428dfe3ecc69428df
+      internalID: -125920105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6d528763ecb0489b6c686764297ce
+      internalID: -106158310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23f908cd6253647a07f643ebf0faef
+      internalID: -99284190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e17ff45d63894daec669ed5f4ec56
+      internalID: -474343163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c10032dd6bfc74e9fa901f7a48bd36
+      internalID: -186726183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562870e1d7263147a5e86a4b9033d89
+      internalID: -1254189191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243fce0ccd74ce4a87764fad2ce6379
+      internalID: 404461643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_56
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6399376c1130d64e9c4b3f324f984fa
+      internalID: 141901707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a58cf71d1b91488fce055fc73e39e
+      internalID: 1149101152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 41
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae300ad2d9ec6034a8a8787ec0bd104c
+      internalID: -1257803863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca8f3d659db8c642a74796444ce8474
+      internalID: -1333721302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de97dec2a08b80468570051ea7f8c0b
+      internalID: -909419273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_61
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c780eccdfe92a4db93ff66dec97baf
+      internalID: -184715328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c3b0be5ae6504d9b8c23f03f7dee0
+      internalID: -1666279546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f73fa4888e9a4aafd101d05b55d24
+      internalID: 1296064642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0074c98cc64da48b20ffe3285df50a
+      internalID: -1177155948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36773a35ed975524fbaf0e02b5a6370c
+      internalID: 160821033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961c6ebe97f7c5438f36606449c4d3d
+      internalID: 1867796762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026765745e48c4d49be09fc03ab6ad3d
+      internalID: -584332549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661e4e4a6b9fa94b8c4d337626cccc9
+      internalID: -1624593745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970f13755b3bb0048862b3be95e34cb4
+      internalID: -1528563679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 21
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85adac88b9aa13148ac8aa650c9534f7
+      internalID: -1843469661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd9276beb2d82d45af576c6e3adca71
+      internalID: 150753119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed1d694ff01074ba21eed7ea53e701
+      internalID: -760850495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb0fabf06e2d046a327ea242367c0b
+      internalID: 647101592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b95ebede1ef141a761d7a3906db3a
+      internalID: 949916440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037ee55f677a37499aef9ca490c1d63
+      internalID: -1426576548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e680e77a8ec07f429b9fb8359d32f05
+      internalID: -1754647062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa37f92f1c9bd4b8efd325101d43cc
+      internalID: -1356429580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0d886addfa5b499703e7b720fc989
+      internalID: 834555577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f65edcafcddcf04993a70a24b829bc1
+      internalID: 785668950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67a46727df3974b8d048c2fc8705d8
+      internalID: 1200518900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_81
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f167c0686bf543b9ba0cda14e9eab
+      internalID: -1630915457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acf3d09355523429c32ee12ac80d16
+      internalID: -645102494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b655f0bae61649918bb757c247b6a
+      internalID: -325675192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d9ec582eca114183f0ab6df292d45
+      internalID: -283775322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ffc70cddfc014082a4de90f5ea642
+      internalID: 1725552491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d952048e8d1904da630585e1aa90c9
+      internalID: -1054386471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Enemies - Trap Blast_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417db1aaa1591a849ab18339498ae8c5
+      internalID: 435581559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_0: 535187809
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_1: 1463521559
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_10: -1277851629
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_11: -225559960
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_12: 1015146109
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_13: 447977501
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_14: -657522031
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_15: 796348480
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_16: 875324847
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_17: -467432155
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_18: 542716182
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_19: 744473124
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_2: -1386753061
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_20: 1339938388
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_21: 1528051039
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_22: 1922397565
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_23: -525855058
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_24: 1516132926
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_25: -1479103485
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_26: -276547271
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_27: -1060959518
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_28: 2126973480
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_29: 354397705
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_3: 694148425
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_30: 1082090495
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_31: 732363229
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_32: -2019176502
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_33: -1064524978
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_34: -1642453297
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_35: -698358144
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_36: -2078011354
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_37: 195274557
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_38: -456485798
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_39: 134377398
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_4: 465432951
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_40: 1062064229
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_41: -145539642
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_42: 935876948
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_43: 2062007784
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_44: 137582566
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_45: 1441317902
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_46: -1394372208
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_47: 1552599895
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_48: -182671762
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_49: -125920105
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_5: 1592084322
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_50: -106158310
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_51: -99284190
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_52: -474343163
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_53: -186726183
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_54: -1254189191
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_55: 404461643
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_56: 141901707
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_57: 1149101152
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_58: -1257803863
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_59: -1333721302
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_6: 1670339706
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_60: -909419273
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_61: -184715328
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_62: -1666279546
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_63: 1296064642
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_64: -1177155948
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_65: 160821033
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_66: 1867796762
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_67: -584332549
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_68: -1624593745
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_69: -1528563679
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_7: 402804613
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_70: -1843469661
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_71: 150753119
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_72: -760850495
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_73: 647101592
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_74: 949916440
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_75: -1426576548
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_76: -1754647062
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_77: -1356429580
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_78: 834555577
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_79: 785668950
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_8: -2144609417
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_80: 1200518900
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_81: -1630915457
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_82: -645102494
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_83: -325675192
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_84: -283775322
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_85: 1725552491
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_86: -1054386471
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_87: 435581559
+      PlayStation - Mega Man X4 - Enemies - Trap Blast_9: 1154223457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
