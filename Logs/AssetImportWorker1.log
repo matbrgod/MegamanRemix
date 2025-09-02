@@ -3090,3 +3090,72 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 25514.736617 seconds.
+  path: Assets/Prefabs/PlayerNovo Variant.prefab
+  artifactKey: Guid(01d4129957c9462418f4b217d948cb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerNovo Variant.prefab using Guid(01d4129957c9462418f4b217d948cb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cafdb65110b4f4830f5f63cfa6c1df3') in 0.235751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 319.435380 seconds.
+  path: Assets/AnimNovo/intro2.png
+  artifactKey: Guid(ee9cc39691ca660439ce025bfb5dd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro2.png using Guid(ee9cc39691ca660439ce025bfb5dd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b65fade04ada2ba4484d2597d231d06') in 0.049585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.010609 seconds.
+  path: Assets/AnimNovo/intro3.png
+  artifactKey: Guid(32e893472f85a2343b4ab98f4459f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro3.png using Guid(32e893472f85a2343b4ab98f4459f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05eb0258cf039c6ece8f382f56adf6ed') in 0.056648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AnimNovo/intro6.png
+  artifactKey: Guid(7c19b0cc99de59b4e921bd23d2af1ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro6.png using Guid(7c19b0cc99de59b4e921bd23d2af1ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2118dcd12c6ee4727822365a9b8a90') in 0.019797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/AnimNovo/intro7.png
+  artifactKey: Guid(69f8251d8b7cadd49a4b4e7fa9164398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro7.png using Guid(69f8251d8b7cadd49a4b4e7fa9164398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b3e0d3bece10087a6af81e65096ada') in 0.017799 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 23.092183 seconds.
+  path: Assets/AnimNovo/intro2.png
+  artifactKey: Guid(ee9cc39691ca660439ce025bfb5dd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro2.png using Guid(ee9cc39691ca660439ce025bfb5dd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b08a9dc52396eed60a462a188cf1be9') in 0.029391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AnimNovo/intro8.png
+  artifactKey: Guid(40f3ccbb28a599a4ebf524cc22273e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro8.png using Guid(40f3ccbb28a599a4ebf524cc22273e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b044e75b3a0e2e1df11dd3070b4312ee') in 0.024275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AnimNovo/intro3.png
+  artifactKey: Guid(32e893472f85a2343b4ab98f4459f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro3.png using Guid(32e893472f85a2343b4ab98f4459f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41e306b23177fb7bd19004d5a21436a') in 0.027383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

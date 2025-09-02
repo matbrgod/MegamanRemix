@@ -3242,3 +3242,135 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 24173.133013 seconds.
+  path: Assets/Prefabs/PlayerMM.prefab
+  artifactKey: Guid(d42a24c9cbd336e46aa519ab65fd03d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerMM.prefab using Guid(d42a24c9cbd336e46aa519ab65fd03d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1548fc55ac974075bc3a0fc6925305df') in 0.236966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 90
+========================================================================
+Received Import Request.
+  Time since last request: 319.434845 seconds.
+  path: Assets/AnimNovo/intro1.png
+  artifactKey: Guid(73814d3752d67084b8dc8d89f516c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro1.png using Guid(73814d3752d67084b8dc8d89f516c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60ab3b3748689cd91286ab54bb13ccf') in 0.049579 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.010675 seconds.
+  path: Assets/AnimNovo/intro5.png
+  artifactKey: Guid(a08cf6c4154bc8b42a2da221ddfece03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro5.png using Guid(a08cf6c4154bc8b42a2da221ddfece03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e94cf35e450bfd4285c7e88b9a0a8e') in 0.059830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AnimNovo/intro8.png
+  artifactKey: Guid(40f3ccbb28a599a4ebf524cc22273e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro8.png using Guid(40f3ccbb28a599a4ebf524cc22273e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcd4cdef15fb94023ec8876f832f06f') in 0.018367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AnimNovo/intro4.png
+  artifactKey: Guid(be96acc5e4687b64385fceaa2f1baec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro4.png using Guid(be96acc5e4687b64385fceaa2f1baec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3131e559c3b7adb3812949cde0d72624') in 0.016745 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 23.091599 seconds.
+  path: Assets/AnimNovo/intro1.png
+  artifactKey: Guid(73814d3752d67084b8dc8d89f516c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro1.png using Guid(73814d3752d67084b8dc8d89f516c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe8a83c0fdbd8f75bb6f6b4ce5835c0') in 0.029994 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AnimNovo/intro5.png
+  artifactKey: Guid(a08cf6c4154bc8b42a2da221ddfece03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro5.png using Guid(a08cf6c4154bc8b42a2da221ddfece03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060fb5d3a1ee18c7eff11e1c57d42ddf') in 0.024088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AnimNovo/intro7.png
+  artifactKey: Guid(69f8251d8b7cadd49a4b4e7fa9164398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimNovo/intro7.png using Guid(69f8251d8b7cadd49a4b4e7fa9164398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd0f3e2a0d4c1bd569a3b152c4c3c0f') in 0.027408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.283 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.478 seconds
+Domain Reload Profiling: 760ms
+	BeginReloadAssembly (128ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (88ms)
+		LoadAssemblies (156ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (5ms)
+			TypeCache.Refresh (2ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (479ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (213ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (129ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 10 unused Assets / (24.4 KB). Loaded Objects now: 1826.
+Memory consumption went from 170.6 MB to 170.6 MB.
+Total: 2.244600 ms (FindLiveObjects: 0.092700 ms CreateObjectMapping: 0.023100 ms MarkObjects: 2.102100 ms  DeleteObjects: 0.026000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
