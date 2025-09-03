@@ -8,7 +8,7 @@ public class MenuGame : MonoBehaviour
 {
     public void PlayGame()
     {
-        MyLoading.LoadLevel("Level1");
+        MyLoading.LoadLevel("NewLevel");
     }
 
     public void QuitGame()
