@@ -99,7 +99,7 @@ public class Control : MonoBehaviour
         // Verifica a distância do chão e aplica uma força de pulo se necessário.
         if (hit.distance < 0.1f)
         {
-            jumptime = 3;
+            jumptime = 3.5f;
            
         }
 
