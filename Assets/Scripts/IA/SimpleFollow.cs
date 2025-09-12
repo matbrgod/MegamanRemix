@@ -21,6 +21,8 @@ public class SimpleFollow : MonoBehaviour
         {
             Vector3 dif = target.transform.position - transform.position;
             rdb.AddForce(dif);
+
+        
         }
     }
 
